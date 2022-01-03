@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 TECH
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
